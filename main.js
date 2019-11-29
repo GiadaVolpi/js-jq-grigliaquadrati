@@ -4,8 +4,6 @@
 // BONUS: generare la griglia dei quadratini utilizzando jQuery
 
 $ (document).ready (function () {
-
-
     
 
 

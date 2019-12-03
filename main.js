@@ -49,8 +49,7 @@ $ (document).ready (function () {
             $ (this).addClass ("verde");
         }
     });
-
-
+    
 
 
     function naveRandom (min, max) {
